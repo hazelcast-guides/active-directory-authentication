@@ -118,7 +118,7 @@ ktpass -princ hz/10.0.0.10@ACME.COM -mapuser hz-dc1@ACME.COM `
 
 Commands used:
 
-- https://docs.microsoft.com/en-us/powershell/module/addsadministration/new-aduser[New-ADUser]
+- https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-aduser[New-ADUser]
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ktpass[ktpass]
 
 .Screenshot - New accounts in AD users GUI
